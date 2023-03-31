@@ -1,0 +1,41 @@
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\ConexionWeb\bin\Debug\ConexionWeb.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\ConexionWeb\bin\Debug\ConexionWeb.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.csproj.AssemblyReference.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.csproj.CoreCompileInputs.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.pdb
+D:\Facultad\4°\Ingenieria de Soft\2022\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\ConexionWeb\bin\Debug\ConexionWeb.dll
+D:\Facultad\4°\Ingenieria de Soft\2022\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\ConexionWeb\bin\Debug\ConexionWeb.pdb
+D:\Facultad\4°\Ingenieria de Soft\2022\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.csproj.AssemblyReference.cache
+D:\Facultad\4°\Ingenieria de Soft\2022\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.csproj.CoreCompileInputs.cache
+D:\Facultad\4°\Ingenieria de Soft\2022\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.dll
+D:\Facultad\4°\Ingenieria de Soft\2022\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\ConexionWeb\bin\Debug\ConexionWeb.dll.config
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\ConexionWeb\bin\Debug\ConexionWeb.dll.config
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\ConexionWeb\bin\Debug\ConexionWeb.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\ConexionWeb\bin\Debug\ConexionWeb.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\ConexionWeb\bin\Debug\ConexionWeb.dll.config
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\ConexionWeb\bin\Debug\ConexionWeb.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\ConexionWeb\bin\Debug\ConexionWeb.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\ConexionWeb\bin\Debug\ConexionWeb.dll.config
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\ConexionWeb\bin\Debug\ConexionWeb.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\ConexionWeb\bin\Debug\ConexionWeb.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\ConexionWeb\obj\Debug\ConexionWeb.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\ConexionWeb\bin\Debug\ConexionWeb.dll.config
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\ConexionWeb\bin\Debug\ConexionWeb.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\ConexionWeb\bin\Debug\ConexionWeb.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\ConexionWeb\obj\Debug\ConexionWeb.csproj.AssemblyReference.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\ConexionWeb\obj\Debug\ConexionWeb.csproj.CoreCompileInputs.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\ConexionWeb\obj\Debug\ConexionWeb.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\ConexionWeb\obj\Debug\ConexionWeb.pdb

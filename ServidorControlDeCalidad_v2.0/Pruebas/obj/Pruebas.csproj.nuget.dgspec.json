@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Pruebas\\Pruebas.csproj": {}
+  },
+  "projects": {
+    "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Aplicacion\\Aplicacion.csproj": {
+      "restore": {
+        "projectUniqueName": "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Aplicacion\\Aplicacion.csproj",
+        "projectName": "Aplicacion",
+        "projectPath": "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Aplicacion\\Aplicacion.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Dominio\\Dominio.csproj": {
+                "projectPath": "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Dominio\\Dominio.csproj"
+              },
+              "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Persistencia\\Persistencia.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Dominio\\Dominio.csproj": {
+      "restore": {
+        "projectUniqueName": "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Dominio\\Dominio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Persistencia\\Persistencia.csproj": {
+      "restore": {
+        "projectUniqueName": "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Persistencia\\Persistencia.csproj",
+        "projectName": "Persistencia",
+        "projectPath": "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Persistencia\\Persistencia.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Dominio\\Dominio.csproj": {
+                "projectPath": "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Dominio\\Dominio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Pruebas\\Pruebas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Pruebas\\Pruebas.csproj",
+        "projectName": "Pruebas",
+        "projectPath": "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Pruebas\\Pruebas.csproj",
+        "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
+        "outputPath": "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Pruebas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "H:\\UTN-FRT\\2022\\Ing del Software\\TFI\\ServidorControlDeCalidad\\Aplicacion\\Aplicacion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

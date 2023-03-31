@@ -1,0 +1,16 @@
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Debug\Persistencia.dll.config
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Debug\Persistencia.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Debug\Persistencia.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Debug\Dominio.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Debug\EntityFramework.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Debug\Dominio.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Debug\EntityFramework.xml
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\obj\Debug\Persistencia.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\obj\Debug\Persistencia.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\obj\Debug\Persistencia.Migrations.actualizacion11.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\obj\Debug\Persistencia.csproj.GenerateResource.cache

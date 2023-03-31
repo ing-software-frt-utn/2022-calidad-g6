@@ -1,0 +1,7 @@
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\ConexionWeb\bin\Release\ConexionWeb.dll.config
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\ConexionWeb\bin\Release\ConexionWeb.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\ConexionWeb\bin\Release\ConexionWeb.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\ConexionWeb\obj\Release\ConexionWeb.csproj.CoreCompileInputs.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\ConexionWeb\obj\Release\ConexionWeb.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\ConexionWeb\obj\Release\ConexionWeb.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\ConexionWeb\obj\Release\ConexionWeb.csproj.AssemblyReference.cache

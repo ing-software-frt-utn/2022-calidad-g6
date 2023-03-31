@@ -1,0 +1,6 @@
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Dominio\bin\Release\Dominio.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Dominio\bin\Release\Dominio.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Dominio\obj\Release\Dominio.csproj.AssemblyReference.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Dominio\obj\Release\Dominio.csproj.CoreCompileInputs.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Dominio\obj\Release\Dominio.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Dominio\obj\Release\Dominio.pdb

@@ -1,0 +1,16 @@
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Release\Persistencia.dll.config
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Release\Persistencia.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Release\Persistencia.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Release\Dominio.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Release\EntityFramework.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Release\EntityFramework.SqlServer.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Release\Dominio.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Release\EntityFramework.xml
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\bin\Release\EntityFramework.SqlServer.xml
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\obj\Release\Persistencia.csproj.AssemblyReference.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\obj\Release\Persistencia.csproj.GenerateResource.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\obj\Release\Persistencia.csproj.CoreCompileInputs.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\obj\Release\Persistencia.csproj.CopyComplete
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\obj\Release\Persistencia.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\obj\Release\Persistencia.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Persistencia\obj\Release\Persistencia.Migrations.actualizacion9.resources

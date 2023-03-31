@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ServicioDeConexion" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8080/ControlDeCalidadServicio?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8080/ControlDeCalidadServicio?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8080/ControlDeCalidadServicio?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Aplicacion.DTOs" />
+      <xsd:import schemaLocation="http://localhost:8080/ControlDeCalidadServicio?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/Aplicacion.DTOs.Enumeraciones" />
+      <xsd:import schemaLocation="http://localhost:8080/ControlDeCalidadServicio?xsd=xsd4" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IConexion_LogearUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:LogearUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_LogearUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LogearUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerSupervisoresDeCalidadDisponibles_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerSupervisoresDeCalidadDisponibles" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerSupervisoresDeCalidadDisponibles_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerSupervisoresDeCalidadDisponiblesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_InsertarUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertarUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_InsertarUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertarUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_EliminarColor_InputMessage">
+    <wsdl:part name="parameters" element="tns:EliminarColor" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_EliminarColor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EliminarColorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_InsertarColor_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertarColor" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_InsertarColor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertarColorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ActualizarColor_InputMessage">
+    <wsdl:part name="parameters" element="tns:ActualizarColor" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ActualizarColor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ActualizarColorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerColoresActivos_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerColoresActivos" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerColoresActivos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerColoresActivosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_BuscarColoresPorCodigo_InputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarColoresPorCodigo" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_BuscarColoresPorCodigo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarColoresPorCodigoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_BuscarColoresPorDescripcion_InputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarColoresPorDescripcion" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_BuscarColoresPorDescripcion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarColoresPorDescripcionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerModelosActivos_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerModelosActivos" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerModelosActivos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerModelosActivosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_BuscarModelosPorSKU_InputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarModelosPorSKU" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_BuscarModelosPorSKU_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarModelosPorSKUResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_BuscarModelosPorDescripcion_InputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarModelosPorDescripcion" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_BuscarModelosPorDescripcion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarModelosPorDescripcionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_EliminarModelo_InputMessage">
+    <wsdl:part name="parameters" element="tns:EliminarModelo" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_EliminarModelo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EliminarModeloResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_InsertarModelo_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertarModelo" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_InsertarModelo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertarModeloResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ActualizarModelo_InputMessage">
+    <wsdl:part name="parameters" element="tns:ActualizarModelo" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ActualizarModelo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ActualizarModeloResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_CrearOP_InputMessage">
+    <wsdl:part name="parameters" element="tns:CrearOP" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_CrearOP_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CrearOPResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ActivarOP_InputMessage">
+    <wsdl:part name="parameters" element="tns:ActivarOP" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ActivarOP_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ActivarOPResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_FinalizarOP_InputMessage">
+    <wsdl:part name="parameters" element="tns:FinalizarOP" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_FinalizarOP_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FinalizarOPResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_PausarOP_InputMessage">
+    <wsdl:part name="parameters" element="tns:PausarOP" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_PausarOP_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PausarOPResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_AsociarSupervisorDeCalidad_InputMessage">
+    <wsdl:part name="parameters" element="tns:AsociarSupervisorDeCalidad" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_AsociarSupervisorDeCalidad_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AsociarSupervisorDeCalidadResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_DesasociarSupervisorDeCalidad_InputMessage">
+    <wsdl:part name="parameters" element="tns:DesasociarSupervisorDeCalidad" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_DesasociarSupervisorDeCalidad_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DesasociarSupervisorDeCalidadResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_BuscarOPActualSupervisorDeCalidad_InputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarOPActualSupervisorDeCalidad" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_BuscarOPActualSupervisorDeCalidad_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarOPActualSupervisorDeCalidadResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerLineasDeTrabajo_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerLineasDeTrabajo" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerLineasDeTrabajo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerLineasDeTrabajoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerLineasDeTrabajoDisponibles_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerLineasDeTrabajoDisponibles" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerLineasDeTrabajoDisponibles_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerLineasDeTrabajoDisponiblesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_InsertarLineaDetrabajo_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertarLineaDetrabajo" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_InsertarLineaDetrabajo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertarLineaDetrabajoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ActualizarLineaDetrabajo_InputMessage">
+    <wsdl:part name="parameters" element="tns:ActualizarLineaDetrabajo" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ActualizarLineaDetrabajo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ActualizarLineaDetrabajoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_EliminarLineaDetrabajo_InputMessage">
+    <wsdl:part name="parameters" element="tns:EliminarLineaDetrabajo" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_EliminarLineaDetrabajo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EliminarLineaDetrabajoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerJornada_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerJornada" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerJornada_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerJornadaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_FinalizarJornada_InputMessage">
+    <wsdl:part name="parameters" element="tns:FinalizarJornada" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_FinalizarJornada_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FinalizarJornadaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_InsertarIncidecia_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertarIncidecia" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_InsertarIncidecia_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertarIncideciaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerDefectosDeReproceso_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerDefectosDeReproceso" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerDefectosDeReproceso_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerDefectosDeReprocesoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerDefectosDeObservados_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerDefectosDeObservados" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_ObtenerDefectosDeObservados_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerDefectosDeObservadosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_SeleccionarDefecto_InputMessage">
+    <wsdl:part name="parameters" element="tns:SeleccionarDefecto" />
+  </wsdl:message>
+  <wsdl:message name="IConexion_SeleccionarDefecto_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SeleccionarDefectoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IConexion">
+    <wsdl:operation name="LogearUsuario">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/LogearUsuario" message="tns:IConexion_LogearUsuario_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/LogearUsuarioResponse" message="tns:IConexion_LogearUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerSupervisoresDeCalidadDisponibles">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/ObtenerSupervisoresDeCalidadDisponibles" message="tns:IConexion_ObtenerSupervisoresDeCalidadDisponibles_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/ObtenerSupervisoresDeCalidadDisponiblesResponse" message="tns:IConexion_ObtenerSupervisoresDeCalidadDisponibles_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertarUsuario">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/InsertarUsuario" message="tns:IConexion_InsertarUsuario_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/InsertarUsuarioResponse" message="tns:IConexion_InsertarUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EliminarColor">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/EliminarColor" message="tns:IConexion_EliminarColor_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/EliminarColorResponse" message="tns:IConexion_EliminarColor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertarColor">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/InsertarColor" message="tns:IConexion_InsertarColor_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/InsertarColorResponse" message="tns:IConexion_InsertarColor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarColor">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/ActualizarColor" message="tns:IConexion_ActualizarColor_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/ActualizarColorResponse" message="tns:IConexion_ActualizarColor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerColoresActivos">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/ObtenerColoresActivos" message="tns:IConexion_ObtenerColoresActivos_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/ObtenerColoresActivosResponse" message="tns:IConexion_ObtenerColoresActivos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BuscarColoresPorCodigo">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/BuscarColoresPorCodigo" message="tns:IConexion_BuscarColoresPorCodigo_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/BuscarColoresPorCodigoResponse" message="tns:IConexion_BuscarColoresPorCodigo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BuscarColoresPorDescripcion">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/BuscarColoresPorDescripcion" message="tns:IConexion_BuscarColoresPorDescripcion_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/BuscarColoresPorDescripcionResponse" message="tns:IConexion_BuscarColoresPorDescripcion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerModelosActivos">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/ObtenerModelosActivos" message="tns:IConexion_ObtenerModelosActivos_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/ObtenerModelosActivosResponse" message="tns:IConexion_ObtenerModelosActivos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BuscarModelosPorSKU">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/BuscarModelosPorSKU" message="tns:IConexion_BuscarModelosPorSKU_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/BuscarModelosPorSKUResponse" message="tns:IConexion_BuscarModelosPorSKU_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BuscarModelosPorDescripcion">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/BuscarModelosPorDescripcion" message="tns:IConexion_BuscarModelosPorDescripcion_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/BuscarModelosPorDescripcionResponse" message="tns:IConexion_BuscarModelosPorDescripcion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EliminarModelo">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/EliminarModelo" message="tns:IConexion_EliminarModelo_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/EliminarModeloResponse" message="tns:IConexion_EliminarModelo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertarModelo">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/InsertarModelo" message="tns:IConexion_InsertarModelo_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/InsertarModeloResponse" message="tns:IConexion_InsertarModelo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarModelo">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/ActualizarModelo" message="tns:IConexion_ActualizarModelo_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/ActualizarModeloResponse" message="tns:IConexion_ActualizarModelo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CrearOP">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/CrearOP" message="tns:IConexion_CrearOP_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/CrearOPResponse" message="tns:IConexion_CrearOP_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ActivarOP">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/ActivarOP" message="tns:IConexion_ActivarOP_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/ActivarOPResponse" message="tns:IConexion_ActivarOP_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FinalizarOP">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/FinalizarOP" message="tns:IConexion_FinalizarOP_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/FinalizarOPResponse" message="tns:IConexion_FinalizarOP_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PausarOP">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/PausarOP" message="tns:IConexion_PausarOP_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/PausarOPResponse" message="tns:IConexion_PausarOP_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AsociarSupervisorDeCalidad">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/AsociarSupervisorDeCalidad" message="tns:IConexion_AsociarSupervisorDeCalidad_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/AsociarSupervisorDeCalidadResponse" message="tns:IConexion_AsociarSupervisorDeCalidad_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DesasociarSupervisorDeCalidad">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/DesasociarSupervisorDeCalidad" message="tns:IConexion_DesasociarSupervisorDeCalidad_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/DesasociarSupervisorDeCalidadResponse" message="tns:IConexion_DesasociarSupervisorDeCalidad_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BuscarOPActualSupervisorDeCalidad">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/BuscarOPActualSupervisorDeCalidad" message="tns:IConexion_BuscarOPActualSupervisorDeCalidad_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/BuscarOPActualSupervisorDeCalidadResponse" message="tns:IConexion_BuscarOPActualSupervisorDeCalidad_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerLineasDeTrabajo">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/ObtenerLineasDeTrabajo" message="tns:IConexion_ObtenerLineasDeTrabajo_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/ObtenerLineasDeTrabajoResponse" message="tns:IConexion_ObtenerLineasDeTrabajo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerLineasDeTrabajoDisponibles">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/ObtenerLineasDeTrabajoDisponibles" message="tns:IConexion_ObtenerLineasDeTrabajoDisponibles_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/ObtenerLineasDeTrabajoDisponiblesResponse" message="tns:IConexion_ObtenerLineasDeTrabajoDisponibles_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertarLineaDetrabajo">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/InsertarLineaDetrabajo" message="tns:IConexion_InsertarLineaDetrabajo_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/InsertarLineaDetrabajoResponse" message="tns:IConexion_InsertarLineaDetrabajo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarLineaDetrabajo">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/ActualizarLineaDetrabajo" message="tns:IConexion_ActualizarLineaDetrabajo_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/ActualizarLineaDetrabajoResponse" message="tns:IConexion_ActualizarLineaDetrabajo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EliminarLineaDetrabajo">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/EliminarLineaDetrabajo" message="tns:IConexion_EliminarLineaDetrabajo_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/EliminarLineaDetrabajoResponse" message="tns:IConexion_EliminarLineaDetrabajo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerJornada">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/ObtenerJornada" message="tns:IConexion_ObtenerJornada_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/ObtenerJornadaResponse" message="tns:IConexion_ObtenerJornada_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FinalizarJornada">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/FinalizarJornada" message="tns:IConexion_FinalizarJornada_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/FinalizarJornadaResponse" message="tns:IConexion_FinalizarJornada_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertarIncidecia">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/InsertarIncidecia" message="tns:IConexion_InsertarIncidecia_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/InsertarIncideciaResponse" message="tns:IConexion_InsertarIncidecia_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerDefectosDeReproceso">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/ObtenerDefectosDeReproceso" message="tns:IConexion_ObtenerDefectosDeReproceso_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/ObtenerDefectosDeReprocesoResponse" message="tns:IConexion_ObtenerDefectosDeReproceso_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerDefectosDeObservados">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/ObtenerDefectosDeObservados" message="tns:IConexion_ObtenerDefectosDeObservados_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/ObtenerDefectosDeObservadosResponse" message="tns:IConexion_ObtenerDefectosDeObservados_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SeleccionarDefecto">
+      <wsdl:input wsam:Action="http://tempuri.org/IConexion/SeleccionarDefecto" message="tns:IConexion_SeleccionarDefecto_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/IConexion/SeleccionarDefectoResponse" message="tns:IConexion_SeleccionarDefecto_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IConexion" type="tns:IConexion">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="LogearUsuario">
+      <soap:operation soapAction="http://tempuri.org/IConexion/LogearUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerSupervisoresDeCalidadDisponibles">
+      <soap:operation soapAction="http://tempuri.org/IConexion/ObtenerSupervisoresDeCalidadDisponibles" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarUsuario">
+      <soap:operation soapAction="http://tempuri.org/IConexion/InsertarUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EliminarColor">
+      <soap:operation soapAction="http://tempuri.org/IConexion/EliminarColor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarColor">
+      <soap:operation soapAction="http://tempuri.org/IConexion/InsertarColor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarColor">
+      <soap:operation soapAction="http://tempuri.org/IConexion/ActualizarColor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerColoresActivos">
+      <soap:operation soapAction="http://tempuri.org/IConexion/ObtenerColoresActivos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarColoresPorCodigo">
+      <soap:operation soapAction="http://tempuri.org/IConexion/BuscarColoresPorCodigo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarColoresPorDescripcion">
+      <soap:operation soapAction="http://tempuri.org/IConexion/BuscarColoresPorDescripcion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerModelosActivos">
+      <soap:operation soapAction="http://tempuri.org/IConexion/ObtenerModelosActivos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarModelosPorSKU">
+      <soap:operation soapAction="http://tempuri.org/IConexion/BuscarModelosPorSKU" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarModelosPorDescripcion">
+      <soap:operation soapAction="http://tempuri.org/IConexion/BuscarModelosPorDescripcion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EliminarModelo">
+      <soap:operation soapAction="http://tempuri.org/IConexion/EliminarModelo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarModelo">
+      <soap:operation soapAction="http://tempuri.org/IConexion/InsertarModelo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarModelo">
+      <soap:operation soapAction="http://tempuri.org/IConexion/ActualizarModelo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CrearOP">
+      <soap:operation soapAction="http://tempuri.org/IConexion/CrearOP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActivarOP">
+      <soap:operation soapAction="http://tempuri.org/IConexion/ActivarOP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinalizarOP">
+      <soap:operation soapAction="http://tempuri.org/IConexion/FinalizarOP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PausarOP">
+      <soap:operation soapAction="http://tempuri.org/IConexion/PausarOP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AsociarSupervisorDeCalidad">
+      <soap:operation soapAction="http://tempuri.org/IConexion/AsociarSupervisorDeCalidad" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DesasociarSupervisorDeCalidad">
+      <soap:operation soapAction="http://tempuri.org/IConexion/DesasociarSupervisorDeCalidad" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarOPActualSupervisorDeCalidad">
+      <soap:operation soapAction="http://tempuri.org/IConexion/BuscarOPActualSupervisorDeCalidad" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerLineasDeTrabajo">
+      <soap:operation soapAction="http://tempuri.org/IConexion/ObtenerLineasDeTrabajo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerLineasDeTrabajoDisponibles">
+      <soap:operation soapAction="http://tempuri.org/IConexion/ObtenerLineasDeTrabajoDisponibles" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarLineaDetrabajo">
+      <soap:operation soapAction="http://tempuri.org/IConexion/InsertarLineaDetrabajo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarLineaDetrabajo">
+      <soap:operation soapAction="http://tempuri.org/IConexion/ActualizarLineaDetrabajo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EliminarLineaDetrabajo">
+      <soap:operation soapAction="http://tempuri.org/IConexion/EliminarLineaDetrabajo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerJornada">
+      <soap:operation soapAction="http://tempuri.org/IConexion/ObtenerJornada" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinalizarJornada">
+      <soap:operation soapAction="http://tempuri.org/IConexion/FinalizarJornada" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarIncidecia">
+      <soap:operation soapAction="http://tempuri.org/IConexion/InsertarIncidecia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerDefectosDeReproceso">
+      <soap:operation soapAction="http://tempuri.org/IConexion/ObtenerDefectosDeReproceso" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerDefectosDeObservados">
+      <soap:operation soapAction="http://tempuri.org/IConexion/ObtenerDefectosDeObservados" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SeleccionarDefecto">
+      <soap:operation soapAction="http://tempuri.org/IConexion/SeleccionarDefecto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicioDeConexion">
+    <wsdl:port name="BasicHttpBinding_IConexion" binding="tns:BasicHttpBinding_IConexion">
+      <soap:address location="http://localhost:8080/ControlDeCalidadServicio" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

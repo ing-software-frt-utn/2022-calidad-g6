@@ -1,0 +1,17 @@
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Transversal\obj\Debug\Transversal.csproj.AssemblyReference.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Transversal\obj\Debug\Transversal.csproj.CoreCompileInputs.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Transversal\bin\Debug\Transversal.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Transversal\bin\Debug\Transversal.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Transversal\obj\Debug\Transversal.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Transversal\obj\Debug\Transversal.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Transversal\bin\Debug\Transversal.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Transversal\bin\Debug\Transversal.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Transversal\obj\Debug\Transversal.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Transversal\obj\Debug\Transversal.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Transversal\obj\Debug\Transversal.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Transversal\bin\Debug\Transversal.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Transversal\bin\Debug\Transversal.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Transversal\obj\Debug\Transversal.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Transversal\obj\Debug\Transversal.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Transversal\obj\Debug\Transversal.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Transversal\obj\Debug\Transversal.pdb

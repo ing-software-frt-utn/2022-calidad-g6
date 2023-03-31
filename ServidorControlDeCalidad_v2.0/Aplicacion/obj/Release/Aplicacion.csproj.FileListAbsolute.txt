@@ -1,0 +1,14 @@
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Aplicacion\bin\Release\Aplicacion.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Aplicacion\bin\Release\Aplicacion.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Aplicacion\bin\Release\Dominio.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Aplicacion\bin\Release\Persistencia.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Aplicacion\bin\Release\EntityFramework.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Aplicacion\bin\Release\Dominio.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Aplicacion\bin\Release\Persistencia.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Aplicacion\bin\Release\Persistencia.dll.config
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Aplicacion\bin\Release\EntityFramework.xml
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Aplicacion\obj\Release\Aplicacion.csproj.AssemblyReference.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Aplicacion\obj\Release\Aplicacion.csproj.CoreCompileInputs.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Aplicacion\obj\Release\Aplicacion.csproj.CopyComplete
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Aplicacion\obj\Release\Aplicacion.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ServidorControlDeCalidad\Aplicacion\obj\Release\Aplicacion.pdb

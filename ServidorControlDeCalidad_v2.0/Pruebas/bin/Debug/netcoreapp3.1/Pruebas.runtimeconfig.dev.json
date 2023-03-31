@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ezequ\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ezequ\\.nuget\\packages"
+    ]
+  }
+}

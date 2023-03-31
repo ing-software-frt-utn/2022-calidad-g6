@@ -1,0 +1,152 @@
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaContenedor.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentación.Vistas.VistaMensaje.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\bin\Debug\Presentacion.exe.config
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\bin\Debug\Presentacion.exe
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\bin\Debug\Presentacion.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\bin\Debug\ConexionWeb.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\bin\Debug\Transversal.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\bin\Debug\ConexionWeb.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\bin\Debug\Transversal.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.exe
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\bin\Debug\ConexionWeb.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\bin\Debug\Transversal.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\bin\Debug\ConexionWeb.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\bin\Debug\Transversal.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaModificarModelo.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaContenedor.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaCreacionOP.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentación.Vistas.VistaMensaje.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaGestionarModelos.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaEliminarModelo.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaAutenticarUsuario.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaNuevoModelo.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP1\ClienteControlDeCalidad_V2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaSeleccionLMSC.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaAutenticarUsuario.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaEliminarModelo.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaModificarModelo.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaCreacionOP.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaGestionarModelos.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaNuevoModelo.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaSeleccionLMSC.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\bin\Debug\ConexionWeb.dll.config
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.UserControl1.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\ConexionWeb.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\Transversal.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\ConexionWeb.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\ConexionWeb.dll.config
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\Transversal.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.UserControl1.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaAutenticarUsuario.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaEliminarModelo.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaModificarModelo.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaContenedor.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaCreacionOP.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentación.Vistas.VistaMensaje.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaGestionarModelos.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaNuevoModelo.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaSeleccionLMSC.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\Marzo 2023\1.2\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaInspeccionarCalzado.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\ConexionWeb.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\Transversal.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\ConexionWeb.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\ConexionWeb.dll.config
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\bin\Debug\Transversal.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.UserControl1.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaAutenticarUsuario.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaEliminarModelo.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaInspeccionarCalzado.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaModificarModelo.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaContenedor.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaCreacionOP.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentación.Vistas.VistaMensaje.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaGestionarModelos.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaNuevoModelo.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.Vistas.VistaSeleccionLMSC.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v1.2\ClienteControlDeCalidad\Presentacion\obj\Debug\Presentacion.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\bin\Debug\Presentacion.exe.config
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\bin\Debug\Presentacion.exe
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\bin\Debug\Presentacion.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\bin\Debug\ConexionWeb.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\bin\Debug\Transversal.dll
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\bin\Debug\ConexionWeb.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\bin\Debug\ConexionWeb.dll.config
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\bin\Debug\Transversal.pdb
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.Vistas.UserControl1.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.Vistas.VistaAutenticarUsuario.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.Vistas.VistaEliminarModelo.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.Vistas.VistaInspeccionarCalzado.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.Vistas.VistaModificarModelo.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.Vistas.VistaContenedor.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.Vistas.VistaCreacionOP.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentación.Vistas.VistaMensaje.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.Vistas.VistaGestionarModelos.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.Vistas.VistaNuevoModelo.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.Vistas.VistaSeleccionLMSC.resources
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.exe
+H:\UTN-FRT\2022\Ing del Software\TFI\ClienteControlDeCalidad_v1.3\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\bin\Debug\ConexionWeb.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\bin\Debug\Transversal.dll
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\bin\Debug\ConexionWeb.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\bin\Debug\ConexionWeb.dll.config
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\bin\Debug\Transversal.pdb
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.Vistas.UserControl1.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.Vistas.VistaAutenticarUsuario.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.Vistas.VistaEliminarModelo.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.Vistas.VistaInspeccionarCalzado.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.Vistas.VistaModificarModelo.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.Vistas.VistaContenedor.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.Vistas.VistaCreacionOP.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentación.Vistas.VistaMensaje.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.Vistas.VistaGestionarModelos.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.Vistas.VistaNuevoModelo.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.Vistas.VistaSeleccionLMSC.resources
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\tomas\source\repos\Proyectos universidad\4to año\Ing. de software\TP3\ClienteControlDeCalidad_v2.0\Presentacion\obj\Debug\Presentacion.pdb
