@@ -31,4 +31,4 @@ Alumnos:
  
 ------------------ Consejos -----------------------
 
-- Si no desea instalar SQL Server, debera cambiar las cadenas de conexión en los archivos AppConfig.
+- Si no desea instalar SQL Server, debera cambiar las cadenas de conexión en los archivos AppConfig de la solución servidor.
